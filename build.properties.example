@@ -1,0 +1,12 @@
+# Java Measure - properties file
+#
+# $Source$
+# $Id$
+# $Name$
+# 
+# standard stuff, usually don't edit
+#
+builddir = build
+libdir = lib
+docdir = doc/javadoc
+srcdir = src
