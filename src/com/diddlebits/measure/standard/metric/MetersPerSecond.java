@@ -4,13 +4,13 @@
  * Created on October 4, 2003, 12:30 AM
  */
 
-package com.diddlebits.util.measure.standard.metric;
+package com.diddlebits.measure.standard.metric;
 
 
-import com.diddlebits.util.measure.standard.*;
-import com.diddlebits.util.measure.quantity.*;
-import com.diddlebits.util.measure.standard.english.*;
-import com.diddlebits.util.measure.standard.metric.*;
+import com.diddlebits.measure.standard.*;
+import com.diddlebits.measure.quantity.*;
+import com.diddlebits.measure.standard.english.*;
+import com.diddlebits.measure.standard.metric.*;
 
 /**
  *
