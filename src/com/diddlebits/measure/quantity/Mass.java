@@ -4,7 +4,7 @@
  * Created on October 3, 2003, 9:45 PM
  */
 
-package com.diddlebits.util.measure.quantity;
+package com.diddlebits.measure.quantity;
 
 /**
  *

@@ -4,11 +4,11 @@
  * Created on October 3, 2003, 7:05 PM
  */
 
-package com.diddlebits.util.measure.standard;
+package com.diddlebits.measure.standard;
 
 import java.util.ArrayList;
-import com.diddlebits.util.measure.standard.UnitOfMeasure;
-import com.diddlebits.util.measure.ConversionException;
+import com.diddlebits.measure.standard.UnitOfMeasure;
+import com.diddlebits.measure.ConversionException;
 import java.io.Serializable;
 
 /**

@@ -4,10 +4,10 @@
  * Created on October 3, 2003, 10:54 PM
  */
 
-package com.diddlebits.util.measure.standard;
+package com.diddlebits.measure.standard;
 
-import com.diddlebits.util.measure.standard.english.*;
-import com.diddlebits.util.measure.ConversionException;
+import com.diddlebits.measure.standard.english.*;
+import com.diddlebits.measure.ConversionException;
 import java.util.ArrayList;
 import java.util.Iterator;
 

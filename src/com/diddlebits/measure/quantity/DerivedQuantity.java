@@ -6,7 +6,6 @@
 
 package com.diddlebits.measure.quantity;
 
-import java.util.HashSet;
 import java.util.Set;
 
 /**

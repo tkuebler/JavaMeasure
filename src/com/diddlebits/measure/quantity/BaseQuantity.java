@@ -4,9 +4,7 @@
  * Created on October 3, 2003, 9:14 PM
  */
 
-package com.diddlebits.util.measure.quantity;
-
-import com.diddlebits.util.measure.standard.UnitOfMeasure;
+package com.diddlebits.measure.quantity;
 
 /**
  *

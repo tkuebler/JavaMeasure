@@ -4,10 +4,11 @@
  * Created on October 3, 2003, 6:59 PM
  */
 
-package com.diddlebits.util.measure;
+package com.diddlebits.measure;
 
-import com.diddlebits.util.measure.standard.UnitOfMeasure;
 import java.io.Serializable;
+
+import com.diddlebits.measure.standard.UnitOfMeasure;
 
 /**
  *

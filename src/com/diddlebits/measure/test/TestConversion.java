@@ -4,12 +4,12 @@
  * Created on October 3, 2003, 11:46 PM
  */
 
-package com.diddlebits.util.measure.test;
+package com.diddlebits.measure.test;
 
-import com.diddlebits.util.measure.*;
-import com.diddlebits.util.measure.standard.*;
-import com.diddlebits.util.measure.standard.metric.*; 
-import com.diddlebits.util.measure.standard.english.*;
+import com.diddlebits.measure.*;
+import com.diddlebits.measure.standard.*;
+import com.diddlebits.measure.standard.metric.*; 
+import com.diddlebits.measure.standard.english.*;
 
 import com.diddlebits.util.Syslog;
 /**

@@ -4,10 +4,10 @@
  * Created on October 3, 2003, 9:49 PM
  */
 
-package com.diddlebits.util.measure.quantity;
+package com.diddlebits.measure.quantity;
 
-import com.diddlebits.util.measure.standard.UnitOfMeasure;
-import com.diddlebits.util.measure.standard.metric.MetersPerSecond;
+import com.diddlebits.measure.standard.UnitOfMeasure;
+import com.diddlebits.measure.standard.metric.MetersPerSecond;
 import java.util.HashSet;
 import java.util.Set;
 

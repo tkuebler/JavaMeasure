@@ -4,14 +4,14 @@
  * Created on October 3, 2003, 11:23 PM
  */
 
-package com.diddlebits.util.measure.standard.english;
+package com.diddlebits.measure.standard.english;
 
-import com.diddlebits.util.measure.quantity.Length;
-import com.diddlebits.util.measure.standard.English;
-import com.diddlebits.util.measure.standard.UnitOfMeasure;
-import com.diddlebits.util.measure.standard.StandardOfMeasure;
-import com.diddlebits.util.measure.quantity.Quantity;
-import com.diddlebits.util.measure.standard.metric.Meter;
+import com.diddlebits.measure.quantity.Length;
+import com.diddlebits.measure.standard.English;
+import com.diddlebits.measure.standard.UnitOfMeasure;
+import com.diddlebits.measure.standard.StandardOfMeasure;
+import com.diddlebits.measure.quantity.Quantity;
+import com.diddlebits.measure.standard.metric.Meter;
 
 /**
  *

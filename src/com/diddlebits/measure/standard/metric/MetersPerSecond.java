@@ -10,7 +10,6 @@ package com.diddlebits.measure.standard.metric;
 import com.diddlebits.measure.standard.*;
 import com.diddlebits.measure.quantity.*;
 import com.diddlebits.measure.standard.english.*;
-import com.diddlebits.measure.standard.metric.*;
 
 /**
  *

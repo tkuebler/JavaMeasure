@@ -4,9 +4,9 @@
  * Created on October 3, 2003, 9:24 PM
  */
 
-package com.diddlebits.util.measure.quantity;
+package com.diddlebits.measure.quantity;
 
-import com.diddlebits.util.measure.standard.metric.Meter;
+import com.diddlebits.measure.standard.metric.Meter;
 
 /**
  *
@@ -31,7 +31,7 @@ public final class Length extends BaseQuantity implements Quantity {
         return SISYMBOL;
     }
     
-    public com.diddlebits.util.measure.standard.UnitOfMeasure getSIUnit() {
+    public com.diddlebits.measure.standard.UnitOfMeasure getSIUnit() {
         return SIUNIT;
     }
     

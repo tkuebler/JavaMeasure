@@ -4,12 +4,11 @@
  * Created on October 3, 2003, 7:07 PM
  */
 
-package com.diddlebits.util.measure;
+package com.diddlebits.measure;
 
-import com.diddlebits.util.measure.standard.StandardOfMeasure;
-import com.diddlebits.util.measure.standard.UnitOfMeasure;
-import com.diddlebits.util.measure.standard.Metric; // here because it is the SI
-
+import com.diddlebits.measure.standard.StandardOfMeasure;
+import com.diddlebits.measure.standard.UnitOfMeasure;
+import com.diddlebits.measure.standard.Metric; // here because it is the SI
 import com.diddlebits.util.Syslog;
 
 /**
