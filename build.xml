@@ -6,6 +6,7 @@
 		<tstamp/>
 		<mkdir dir="${builddir}"/>
 		<mkdir dir="${docdir}"/>
+		<mkdir dir="${libdir}"/>
 	</target>
 	
 	<target name="compile" depends="init">	
@@ -24,6 +25,7 @@
 	<target name="clean">
 		<delete dir="${builddir}"/>
 		<delete dir="${docdir}"/>
+		<delete dir="${libdir}"/>
 	</target>
 
 	<target name="doc" depends="init">
